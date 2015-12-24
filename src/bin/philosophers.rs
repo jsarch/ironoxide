@@ -63,3 +63,7 @@ fn main() {
         h.join().unwrap();
     }
 }
+
+#[test]
+fn it_works() {
+}
